@@ -58,3 +58,4 @@ Main topics:
 02_laplace_iterative_solvers/
 03_compressible_potential_flow/
 reports/
+> Source code, selected figures and the original report will be added during repository cleanup.
