@@ -50,6 +50,8 @@ Main topics:
 - Iterative Linear Solvers
 - Numerical Stability and Convergence Analysis
 - CFD Post-processing
+  
+> Source code, selected figures and the original report will be added during repository cleanup.
 
 ## Repository Structure
 
@@ -58,4 +60,3 @@ Main topics:
 02_laplace_iterative_solvers/
 03_compressible_potential_flow/
 reports/
-> Source code, selected figures and the original report will be added during repository cleanup.
